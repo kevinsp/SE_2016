@@ -6,11 +6,11 @@
     2.  Ist-Zustand  
         *(Wie ist es heute, wie ist die Umgebung?)*
     3.  Ziel  
-        *(**Was** soll fachlich erreicht werden?)*
+        *(<b>Was</b> soll fachlich erreicht werden?)*
     4.  Lösungsweg  
-        *(**Wie** soll das Ziel fachlich erreicht werden?)*
+        *(<b>Wie</b> soll das Ziel fachlich erreicht werden?)*
     5.  Einschränkungen  
-        *(Was soll warum **nicht** entwickelt werden?)*
+        *(Was soll warum <b>nicht</b> entwickelt werden?)*
     6.  Verantwortliche  
         *(Wer ist fachlicher Projektleiter, fachlicher Entwickler, technischer Projektleiter?)*
     7.  Stakeholder  

@@ -1,4 +1,4 @@
-<h2>Template (vgl. http://www.volere.co.uk/template.htm)</h2>
+<h2>Template (vgl. <a href="http://www.volere.co.uk/template.htm" target="_blank">Volere Requirements Specification Template</a>)</h2>
 
 <h3>Projekttreiber</h3>
 <ol start="1">
